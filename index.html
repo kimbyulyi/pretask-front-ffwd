@@ -5,14 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>웹 개발자 과제</title>
     <link rel="stylesheet" href="styles/style.css" />
-    <script src="/js/index.js" defer></script>
+    <script type="module" src="/js/index.js" defer></script>
   </head>
   <body>
-    <table id="table">
-      <tr class="table__title">
+    <button class="table__sortBtn">정렬하기</button>
+    <table id="table" border="1">
+      <thead class="table__title">
         <td>이름</td>
         <td>가격</td>
-      </tr>
+      </thead>
+      <tbody class="table__stocks"></tbody>
     </table>
   </body>
 </html>
