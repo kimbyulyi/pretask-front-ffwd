@@ -1,0 +1,365 @@
+[
+  {
+    "volume": 5718308,
+    "price": 12000,
+    "priceGap": 24.545722713864308,
+    "stock": {
+      "id": "221610",
+      "name": "자안바이오",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 417346,
+    "price": 234000,
+    "priceGap": 13.1948310139165,
+    "stock": {
+      "id": "106520",
+      "name": "디지탈옵틱",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 417928,
+    "price": 1750,
+    "priceGap": 9.40133779264214,
+    "stock": {
+      "id": "064090",
+      "name": "에프앤리퍼블릭",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 444385,
+    "price": 182000,
+    "priceGap": 9.249221183800623,
+    "stock": {
+      "id": "089530",
+      "name": "에이티세미콘",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 0,
+    "price": 52400,
+    "priceGap": 9,
+    "stock": {
+      "id": "160600",
+      "name": "이큐셀",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 32266037,
+    "price": 4800,
+    "priceGap": 7.629893238434164,
+    "stock": {
+      "id": "024810",
+      "name": "이화전기",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 1200956,
+    "price": 77400,
+    "priceGap": 6.199074074074074,
+    "stock": {
+      "id": "136510",
+      "name": "쎄미시스코",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 231345,
+    "price": 187300,
+    "priceGap": 5.436781609195402,
+    "stock": {
+      "id": "261200",
+      "name": "덴티스",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 1104380,
+    "price": 5330,
+    "priceGap": 5.021857923497268,
+    "stock": {
+      "id": "219550",
+      "name": "자안코스메틱",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 28580,
+    "price": 540000,
+    "priceGap": 0.010554089709762533,
+    "stock": {
+      "id": "025560",
+      "name": "미래산업",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 1146613,
+    "price": 76400,
+    "priceGap": 4.709779179810726,
+    "stock": {
+      "id": "052300",
+      "name": "초록뱀컴퍼니",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 0,
+    "price": 9800,
+    "priceGap": 4,
+    "stock": {
+      "id": "900100",
+      "name": "애머릿지",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 128998040,
+    "price": 232300,
+    "priceGap": 3.5918367346938775,
+    "stock": {
+      "id": "043100",
+      "name": "솔고바이오",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 15247096,
+    "price": 2910300,
+    "priceGap": 2.6842105263157894,
+    "stock": {
+      "id": "151860",
+      "name": "KG ETS",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 882253,
+    "price": 77680,
+    "priceGap": 2.6160714285714284,
+    "stock": {
+      "id": "196700",
+      "name": "웹스",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 15733498,
+    "price": 8400,
+    "priceGap": 2.40785498489426,
+    "stock": {
+      "id": "065440",
+      "name": "이루온",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 3386868,
+    "price": 1200,
+    "priceGap": 2.13265306122449,
+    "stock": {
+      "id": "007390",
+      "name": "네이처셀",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 3410510,
+    "price": 1950,
+    "priceGap": 2.1192660550458715,
+    "stock": {
+      "id": "291230",
+      "name": "삼성스팩2호",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 18200948,
+    "price": 8900,
+    "priceGap": 0.031578947368421054,
+    "stock": {
+      "id": "015020",
+      "name": "이스타코",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 14396411,
+    "price": 480,
+    "priceGap": -0.013029315960912053,
+    "stock": {
+      "id": "001440",
+      "name": "대한전선",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 240559,
+    "price": 32000,
+    "priceGap": 1.6597510373443984,
+    "stock": {
+      "id": "036180",
+      "name": "지더블유바이텍",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 4703,
+    "price": 98900,
+    "priceGap": 0.04302477183833116,
+    "stock": {
+      "id": "003925",
+      "name": "남양유업우",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 557378,
+    "price": 87300,
+    "priceGap": 1.6208530805687205,
+    "stock": {
+      "id": "069330",
+      "name": "유아이디",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 66527,
+    "price": 21300,
+    "priceGap": 0.024778761061946902,
+    "stock": {
+      "id": "012170",
+      "name": "아센디오",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 4150984,
+    "price": 6700,
+    "priceGap": 1.5692007797270955,
+    "stock": {
+      "id": "016920",
+      "name": "카스",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 10054951,
+    "price": 148000,
+    "priceGap": -0.013742071881606765,
+    "stock": {
+      "id": "011000",
+      "name": "진원생명과학",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 4243,
+    "price": 210000,
+    "priceGap": 1.5018450184501846,
+    "stock": {
+      "id": "224020",
+      "name": "에스케이씨에스",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 1578296,
+    "price": 98000,
+    "priceGap": 0.007246376811594203,
+    "stock": {
+      "id": "102460",
+      "name": "이연제약",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 12578,
+    "price": 123120,
+    "priceGap": 1.4534534534534536,
+    "stock": {
+      "id": "215570",
+      "name": "크로넥스",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 18225399,
+    "price": 48000,
+    "priceGap": -0.011904761904761904,
+    "stock": {
+      "id": "130660",
+      "name": "한전산업",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 17326,
+    "price": 442200,
+    "priceGap": 0.005291005291005291,
+    "stock": {
+      "id": "003920",
+      "name": "남양유업",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 0,
+    "price": 36300,
+    "priceGap": 1.3541666666666667,
+    "stock": {
+      "id": "066110",
+      "name": "한프",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  },
+  {
+    "volume": 543836,
+    "price": 6700,
+    "priceGap": 1.3510204081632653,
+    "stock": {
+      "id": "317530",
+      "name": "캐리소프트",
+      "nation": "KR",
+      "currency": "KRW"
+    }
+  }
+]
