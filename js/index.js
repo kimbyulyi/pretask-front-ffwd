@@ -1,8 +1,13 @@
-import { getStockList } from "./api.js";
-
 const stockTable = document.querySelector(".table__stocks");
 const stockSortBtn = document.querySelector(".table__sortBtn");
 let sortState = "asc";
+
+const getStockList = () => {
+  const API_URL =
+    "https://raw.githubusercontent.com/kimbyulyi/pretask-front-ffwd/main/domino_web_exam.json";
+  const data = fetch(API_URL).then((res) => res.json());
+  return data;
+};
 
 const initLoader = () => {
   getStockList().then((stockList) => {
