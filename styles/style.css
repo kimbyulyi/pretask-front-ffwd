@@ -4,6 +4,17 @@
   box-sizing: border-box;
 }
 
+#table {
+  width: 400px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid black;
+}
+
 .table__title {
   background-color: #87ceeb;
 }
@@ -14,4 +25,16 @@
 
 .stock__item:nth-child(even) {
   background-color: #d3d3d3;
+}
+
+.table__title__title,
+.table__title__price {
+  width: 200px;
+}
+
+.table__title__title,
+.table__title__price,
+.stock__item__title,
+.stock__item__price {
+  text-align: center;
 }
